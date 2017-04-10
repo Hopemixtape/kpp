@@ -1,0 +1,9 @@
+D:\2 семестр\KPP_l2\DAL\bin\Debug\DAL.dll.config
+D:\2 семестр\KPP_l2\DAL\bin\Debug\DAL.dll
+D:\2 семестр\KPP_l2\DAL\bin\Debug\DAL.pdb
+D:\2 семестр\KPP_l2\DAL\bin\Debug\EntityFramework.dll
+D:\2 семестр\KPP_l2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 семестр\KPP_l2\DAL\bin\Debug\EntityFramework.xml
+D:\2 семестр\KPP_l2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 семестр\KPP_l2\DAL\obj\Debug\DAL.dll
+D:\2 семестр\KPP_l2\DAL\obj\Debug\DAL.pdb
